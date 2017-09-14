@@ -1,0 +1,25 @@
+{
+  "type": "panel",
+  "name": "Scatter plot",
+  "id": "petrslavotinek-scatterplot-panel",
+
+  "info": {
+    "description": "Scatter plot panel plugin for grafana",
+    "author": {
+      "name": "Petr Slavotinek - ENESA a.s.",
+      "url": "http://www.enesa.cz"
+    },
+    "keywords": ["scatter", "plot", "panel"],
+    "version": "0.0.1",
+    "updated": "2017-09-06",
+    "logos": {
+      "small": "src/img/logo.svg",
+      "large": "src/img/logo.svg"
+    }
+  },
+
+  "dependencies": {
+    "grafanaVersion": "4.3.x",
+    "plugins": [ ]
+  }
+}

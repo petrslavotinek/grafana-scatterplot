@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/module.js"],"names":["ScatterPlotCtrl"],"mappings":";;;;;;;;AAASA,qB,oBAAAA,e;;;2BAGPA,e","file":"module.js","sourcesContent":["import { ScatterPlotCtrl } from './scatterplot-ctrl';\r\n\r\nexport {\r\n  ScatterPlotCtrl as PanelCtrl\r\n};\r\n"]}
